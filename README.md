@@ -70,11 +70,4 @@ print(response)
 - Ideal for small datasets and environments with limited resources.
 - For better results, consider fine-tuning models or using larger pre-trained models.
 
-## Future Improvements
-- Integrate larger models for more accurate generation.
-- Implement fine-tuning of the retriever and generator.
-- Add multi-turn conversation support.
-
-## License
-This project is open-source and can be modified and redistributed under the MIT License.
 
